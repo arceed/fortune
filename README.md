@@ -1,0 +1,2 @@
+# fortune
+Fortune Project Repository
